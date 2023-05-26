@@ -260,9 +260,7 @@ nav {
   background: url("../img/mobile_bg.png") center center/cover no-repeat;
 }
 
-.row {
-  margin-top: 32px;
-}
+
 
 .mobile_item {
   position: relative;
