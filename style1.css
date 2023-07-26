@@ -1,4 +1,6 @@
 .container{
+    
+    border-radius: 30%;
     width: 450px;
     height: 200px;
     display: flex;
@@ -15,6 +17,7 @@
 #de,
   #se
 {
+    padding-left: 40px;
     font-size: 20px;
     background-color: #18191f;
     color: white;
